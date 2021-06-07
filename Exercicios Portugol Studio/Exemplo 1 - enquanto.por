@@ -1,6 +1,7 @@
 programa
 {
-	
+	/**/
+
 	funcao inicio()
 	{
 		inteiro x, r
